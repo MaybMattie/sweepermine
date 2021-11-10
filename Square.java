@@ -3,6 +3,7 @@ public class Square {
     boolean revealed = false;
     boolean flagged = false;
     int number = 0;
+    boolean update = false;
 
     Square() {
     	
